@@ -1,91 +1,98 @@
-# > whoami
-
-Venu — Ethical Hacker | Penetration Tester | Security Researcher
-
----
-
-## > cat about.txt
-
-Self-taught security researcher based in India.
-Focused on finding vulnerabilities before the bad guys do.
-Active bug bounty hunter and CTF player.
-Building offensive security tools and sharpening attack techniques.
+# ```bash
+# whoami
+# ```
+# Venu • Cybersecurity Student • Bug Bounty Hunter • Ethical Hacker
 
 ---
 
-## > ls skills/
+## ```
+# The Mission
+# ```
 
-    .
-    ├── languages/
-    │   ├── python
-    │   └── bash
-    ├── web/
-    │   ├── burpsuite
-    │   ├── owasp-top-10
-    │   ├── sqlmap
-    │   └── nuclei
-    ├── network/
-    │   ├── nmap
-    │   ├── wireshark
-    │   └── metasploit
-    └── recon/
-        ├── subfinder
-        ├── amass
-        └── shodan
+Finding vulnerabilities before the bad guys do. Writing secure code. Building offensive security tools. Breaking things responsibly.
 
 ---
 
-## > cat focus.txt
+## ```
+# Arsenal
+# ```
 
-    [+] Web Application Security
-    [+] Network Penetration Testing
-    [+] Bug Bounty Hunting
-    [+] CTF Challenges
-    [+] Red Teaming
-    [+] Responsible Disclosure
+**Languages:**
+```
+├─ Python     [████████████████░░] 80%
+├─ Bash       [███████████████░░░] 75%
+└─ Learning   [█████░░░░░░░░░░░░░] 25%
+```
 
----
-
-## > cat learning.txt
-
-    [*] Mobile Application Pentesting
-    [*] Web3 and Smart Contract Security
-    [*] Red Team Operations
-    [*] SOC and Threat Analysis
-
----
-
-## > cat platforms.txt
-
-    [~] HackerOne
-    [~] Bugcrowd
-    [~] HackTheBox
-    [~] TryHackMe
+**Security Tools:**
+- Recon: Shodan, Subfinder, Amass
+- Web: Burp Suite, SQLMap, OWASP Top 10
+- Network: Nmap, Wireshark, Metasploit
+- Pentesting: Vuln Assessment
 
 ---
 
-## > ./stats.sh
+## ```
+# Current Hunt
+# ```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=dark&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=dark&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-exe&layout=compact&theme=dark&hide_border=true)
-
----
-
-## > cat contact.txt
-
-    GitHub  : https://github.com/Venu-exe
+```
+[✓] Bug Bounty Hunting (Active)
+[✓] Web Application Security
+[~] SOC & Threat Analysis (Learning)
+[~] Mobile App Pentesting (Learning)
+[~] Red Team Operations (Learning)
+```
 
 ---
 
-## > cat disclaimer.txt
+## ```
+# Hunting Grounds
+# ```
 
-    All research is conducted ethically and responsibly.
-    Following responsible disclosure guidelines.
-    Use knowledge to protect, not to harm.
+- HackerOne - Bug bounty platform
+- Bugcrowd - Vulnerability disclosure
+- HackTheBox - Real-world labs
+- TryHackMe - CTF challenges
 
 ---
 
-_[ system ready ]_
+## ```
+# by the numbers
+# ```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=radical&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=radical&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-exe&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## ```
+# Find Me
+# ```
+
+```
+├─ GitHub    → https://github.com/Venu-exe
+├─ HackerOne → [Your Profile]
+├─ Bugcrowd  → [Your Profile]
+└─ Twitter   → [Your Handle]
+```
+
+---
+
+## ```
+# The Code
+# ```
+
+> Ethical Hacking Only
+> Responsible Disclosure
+> No Harm. Just Protection.
+
+---
+
+```
+[System Ready]
+Made with love by Venu
+```
