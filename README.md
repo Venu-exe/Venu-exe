@@ -25,9 +25,9 @@ Finding vulnerabilities before the bad guys do. Writing secure code. Building of
 ```
 
 **Security Tools:**
-- Recon: Shodan, Subfinder, Amass
-- Web: Burp Suite, SQLMap, OWASP Top 10
-- Network: Nmap, Wireshark, Metasploit
+- Recon: Shodan, Subfinder, Amass,...
+- Web: Burp Suite, SQLMap, OWASP Top 10,...
+- Network: Nmap, Wireshark, Metasploit,...
 - Pentesting: Vuln Assessment
 
 ---
@@ -75,10 +75,8 @@ Finding vulnerabilities before the bad guys do. Writing secure code. Building of
 
 ```
 ├─ GitHub    → https://github.com/Venu-exe
-├─ HackerOne → [Your Profile]
-├─ Bugcrowd  → [Your Profile]
-└─ Twitter   → [Your Handle]
-```
+├─ HackerOne → [https://hackerone.com/venu-sh]
+
 
 ---
 
