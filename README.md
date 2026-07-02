@@ -1,96 +1,74 @@
-# ```bash
-# whoami
-# ```
-# Venu • Cybersecurity Student • Bug Bounty Hunter • Ethical Hacker
+<h1 align="center">Hi there, I'm Venu 👋</h1>
+<h3 align="center">Cybersecurity Student • Bug Bounty Hunter • Ethical Hacker</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami;Finding+vulnerabilities+before+the+bad+guys+do;Writing+secure+code;Building+offensive+security+tools;Breaking+things+responsibly." alt="Typing SVG" />
+</p>
 
 ---
 
-## ```
-# The Mission
-# ```
+### 🎯 The Mission
 
 Finding vulnerabilities before the bad guys do. Writing secure code. Building offensive security tools. Breaking things responsibly.
 
 ---
 
-## ```
-# Arsenal
-# ```
+### 🛠️ Arsenal
 
-**Languages:**
+**Languages**
+
 ```
-├─ Python     [████████████████░░] 80%
-├─ Bash       [███████████████░░░] 75%
-└─ Learning   [█████░░░░░░░░░░░░░] 25%
+Python     ████████████████░░  80%
+Bash       ███████████████░░░  75%
+Learning   █████░░░░░░░░░░░░░  25%
 ```
 
-**Security Tools:**
-- Recon: Shodan, Subfinder, Amass,...
-- Web: Burp Suite, SQLMap, OWASP Top 10,...
-- Network: Nmap, Wireshark, Metasploit,...
-- Pentesting: Vuln Assessment
+**Security Tools**
+
+| Category    | Tools |
+|-------------|-------|
+| Recon       | Shodan, Subfinder, Amass |
+| Web         | Burp Suite, SQLMap, OWASP Top 10 |
+| Network     | Nmap, Wireshark, Metasploit |
+| Pentesting  | Vulnerability Assessment |
 
 ---
 
-## ```
-# Current Hunt
-# ```
+### 🎯 Current Hunt
 
-```
-[✓] Bug Bounty Hunting (Active)
-[✓] Web Application Security
-[~] SOC & Threat Analysis (Learning)
-[~] Mobile App Pentesting (Learning)
-[~] Red Team Operations (Learning)
-```
+- [x] Bug Bounty Hunting *(Active)*
+- [x] Web Application Security
+- [ ] SOC & Threat Analysis *(Learning)*
+- [ ] Mobile App Pentesting *(Learning)*
+- [ ] Red Team Operations *(Learning)*
 
 ---
 
-## ```
-# Hunting Grounds
-# ```
+### 🏹 Hunting Grounds
 
-- HackerOne - Bug bounty platform
-- Bugcrowd - Vulnerability disclosure
-- HackTheBox - Real-world labs
-- TryHackMe - CTF challenges
+- **[HackerOne](https://hackerone.com/)** — Bug bounty platform
+- **[Bugcrowd](https://www.bugcrowd.com/)** — Vulnerability disclosure
+- **[HackTheBox](https://www.hackthebox.com/)** — Real-world labs
+- **[TryHackMe](https://tryhackme.com/)** — CTF challenges
 
 ---
 
-## ```
-# by the numbers
-# ```
+### 📊 By the Numbers
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=radical&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=radical&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-exe&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
-## ```
-# Find Me
-# ```
+### 📡 Find Me
 
-```
-├─ GitHub    → https://github.com/Venu-exe
-├─ HackerOne → [https://hackerone.com/venu-sh]
-
+- **GitHub** → [github.com/Venu-exe](https://github.com/Venu-exe)
+- **HackerOne** → [hackerone.com/venu-sh](https://hackerone.com/venu-sh)
 
 ---
 
-## ```
-# The Code
-# ```
+> ⚖️ **Ethical Hacking Only** · **Responsible Disclosure** · **No Harm. Just Protection.**
 
-> Ethical Hacking Only
-> Responsible Disclosure
-> No Harm. Just Protection.
-
----
-
-```
-[System Ready]
-Made with love by Venu
-```
+<p align="center"><code>[System Ready] Made with 💚 by Venu</code></p>
