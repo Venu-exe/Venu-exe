@@ -59,8 +59,8 @@ Learning   █████░░░░░░░░░░░░░  25%
 ### Hunting Grounds
 
 <p align="left">
-  <a href="https://hackerone.com/"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white"/></a>
-  <a href="https://www.bugcrowd.com/"><img src="https://img.shields.io/badge/Bugcrowd-FF5300?style=flat-square&logo=bugcrowd&logoColor=white"/></a>
+  <a href="https://hackerone.com/venu-sh?type=user"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white"/></a>
+  <a href="https://bugcrowd.com/h/venu-sh"><img src="https://img.shields.io/badge/Bugcrowd-FF5300?style=flat-square&logo=bugcrowd&logoColor=white"/></a>
   <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></a>
 </p>
@@ -87,7 +87,8 @@ Learning   █████░░░░░░░░░░░░░  25%
 ### Find Me
 
 - GitHub → [github.com/Venu-exe](https://github.com/Venu-exe)
-- HackerOne → [hackerone.com/venu-sh](https://hackerone.com/venu-sh)
+- HackerOne → [hackerone.com/venu-sh](https://hackerone.com/venu-sh?type=user)
+- Bugcrowd → [bugcrowd.com/h/venu-sh](https://bugcrowd.com/h/venu-sh)
 
 ---
 
