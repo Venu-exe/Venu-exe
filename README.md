@@ -1,99 +1,86 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=whoami;venu+%E2%80%94+cybersecurity+student;bug+bounty+hunter;ethical+hacker" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Hi!+I'm+Venu+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venu-exe&color=39FF14&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/status-hunting-brightgreen" alt="status"/>
-  <img src="https://img.shields.io/badge/focus-web%20%26%20network%20security-blue" alt="focus"/>
-</p>
+![wave](https://media.giphy.com/media/hvRJCLFzcasrR4iAlA/giphy.gif)
 
----
+## Hi there 👋
 
-### Mission
+I'm **Venu**, a cybersecurity enthusiast, bug bounty hunter, and aspiring security researcher. With a strong passion for offensive security and a focus on finding and responsibly reporting vulnerabilities, my goal is to help make the web a little safer, one report at a time.
 
-Finding vulnerabilities before the bad guys do. Writing secure code. Building offensive security tools. Breaking things responsibly.
+**More about me**
 
----
-
-### Arsenal
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white"/>
-</p>
-
-```
-Python     ████████████████░░  80%
-Bash       ███████████████░░░  75%
-Learning   █████░░░░░░░░░░░░░  25%
-```
+- **Name**: Venu
+- **From**: Tiruvannamalai, India
+- **Bug Bounty Hunter** | **Security Enthusiast** | **Tool Builder**
+- Experience in **Web App Pentesting**, **Recon Automation**, **Network Scanning**
+- Improving knowledge in **SOC & Threat Analysis** and **Mobile App Pentesting**
+- Lifelong learner — always exploring **everything security**
+- Reach me on **[HackerOne](https://hackerone.com/venu-sh?type=user)** or **[Bugcrowd](https://bugcrowd.com/h/venu-sh)**
 
 ---
 
-### Current Hunt
+## Present Status
 
-- [x] Bug Bounty Hunting `(Active)`
-- [x] Web Application Security
-- [ ] SOC & Threat Analysis `(Learning)`
-- [ ] Mobile App Pentesting `(Learning)`
-- [ ] Red Team Operations `(Learning)`
+👉 Actively hunting on HackerOne & Bugcrowd
+
+👉 Building recon & OSINT tools for myself and the community
+
+👉 Learning SOC & Threat Analysis
+
+👉 Learning Mobile App Pentesting
+
+👉 Learning Red Team Operations
+
+`Updating:` Journey to becoming a full-time Security Researcher.
 
 ---
 
-### Pinned Work
+## Knowledge & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Pinned Work
 
 | Project | What it does |
 |---|---|
-| [ssh-bruteforce](https://github.com/Venu-exe/ssh-bruteforce) | SSH brute-force testing tool |
+| [s3-toolkit](https://github.com/Venu-exe/s3-toolkit) | S3 bucket search, status check, and enumeration tools |
+| [recon](https://github.com/Venu-exe/recon) | Reconnaissance automation scripts |
+| [full-recon](https://github.com/Venu-exe/full-recon) | Full recon pipeline (Shell) |
 | [Portscanner](https://github.com/Venu-exe/Portscanner) | Custom Python port scanner |
-| [keylogger](https://github.com/Venu-exe/keylogger) | Keylogging PoC for security research |
+| [ssh-bruteforce](https://github.com/Venu-exe/ssh-bruteforce) | SSH brute-force testing tool *(authorized testing only)* |
+| [keylogger](https://github.com/Venu-exe/keylogger) | Keylogging PoC *(educational research only)* |
 
 ---
 
-### Hunting Grounds
+## GitHub Stats 👨‍💻
 
-<p align="left">
-  <a href="https://hackerone.com/venu-sh?type=user"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white"/></a>
-  <a href="https://bugcrowd.com/h/venu-sh"><img src="https://img.shields.io/badge/Bugcrowd-FF5300?style=flat-square&logo=bugcrowd&logoColor=white"/></a>
-  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></a>
-</p>
+![Venu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=chartreuse-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-exe&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Venu-exe&theme=algolia&no-frame=true&row=1)
 
 ---
 
-### By the Numbers
+## Hunting Grounds
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=chartreuse-dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-exe&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Venu-exe&theme=algolia&no-frame=true&row=1" alt="trophies"/>
-</p>
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/venu-sh?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-FF5300?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/venu-sh)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 
 ---
 
-### Find Me
+***"No Harm. Just Protection."***
 
-- GitHub → [github.com/Venu-exe](https://github.com/Venu-exe)
-- HackerOne → [hackerone.com/venu-sh](https://hackerone.com/venu-sh?type=user)
-- Bugcrowd → [bugcrowd.com/h/venu-sh](https://bugcrowd.com/h/venu-sh)
-
----
-
-<p align="center">
-<b>Ethical Hacking Only</b> · <b>Responsible Disclosure</b> · <b>No Harm. Just Protection.</b>
-</p>
-
-<p align="center"><code>[System Ready] Made by Venu</code></p>
+`[System Ready] Made by Venu`
