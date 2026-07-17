@@ -18,7 +18,7 @@ Security researcher based in Tiruvannamalai, India. I hunt for vulnerabilities b
 
 **Languages & Scripting**
 <br>
-<img src="https://skillicons.dev/icons?i=python,bash,js" height="32" />
+<img src="https://skillicons.dev/icons?i=python,bash" height="32" />
 
 **Tooling**
 <br>
