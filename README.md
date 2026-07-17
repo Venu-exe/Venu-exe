@@ -88,6 +88,20 @@ I'm **`Venu`**, a security researcher and bug bounty hunter with a focus on web 
   <img src="https://github-profile-trophy.vercel.app/?username=Venu-exe&theme=matrix&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venu-exe&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## Skill Radar
+
+<p align="center">
+  <img src="https://quickchart.io/chart?bkg=%230d1117&w=500&h=300&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Web%20AppSec%22%2C%22Recon%22%2C%22Network%20Scan%22%2C%22Scripting%22%2C%22Exploit%20Dev%22%2C%22Reporting%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%20Level%22%2C%22data%22%3A%5B80%2C85%2C75%2C70%2C60%2C90%5D%2C%22backgroundColor%22%3A%22rgba%2857%2C255%2C20%2C0.2%29%22%2C%22borderColor%22%3A%22%2339ff14%22%2C%22pointBackgroundColor%22%3A%22%2339ff14%22%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22%23333%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23333%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23fff%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23fff%22%2C%22backdropColor%22%3A%22transparent%22%7D%7D%7D%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23fff%22%7D%7D%7D%7D%7D" />
+</p>
+
+> This chart is generated live from a URL (via QuickChart) — edit the numbers in the link to update your skill levels any time, no image upload needed.
+
 ---
 
 ## Terminal
@@ -101,7 +115,15 @@ web_app_pentesting | recon | network_scanning | exploit_dev
 
 venu@kali:~$ ./scan.sh --target=vulnerabilities --mode=responsible
 [+] Scan complete. 0 secrets leaked. 1 bug reported. Coffee: required.
+
+venu@kali:~$ echo "V2VsbCBkb25lLCB5b3UgZGVjb2RlZCB0aGUgZmxhZy4gRk9VTkR7cmVhZG1lX3JlY29ufQ==" | base64 -d
+# try it yourself — paste into any base64 decoder 👀
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vulnerable_to-Coffee_Overflow-39ff14?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CVE-2026--SLEEP--DEPRIVED-red?style=for-the-badge&labelColor=000000" />
+</p>
 
 ---
 
@@ -120,6 +142,16 @@ venu@kali:~$ ./scan.sh --target=vulnerabilities --mode=responsible
 - HackerOne → [hackerone.com/venu-sh](https://hackerone.com/venu-sh?type=user)
 - Bugcrowd → [bugcrowd.com/h/venu-sh](https://bugcrowd.com/h/venu-sh)
 - GitHub → [github.com/Venu-exe](https://github.com/Venu-exe)
+
+---
+
+## Support ⚡
+
+<p align="center">
+  <a href="https://buymeacoffee.com/venu-exe"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=39ff14" /></a>
+</p>
+
+> Swap the link with your own Buy Me a Coffee / Ko-fi handle once you make one — remove this section entirely if you'd rather not include it.
 
 ---
 
