@@ -1,109 +1,146 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=20&duration=3000&pause=500&color=E63946&center=true&vCenter=true&width=650&lines=CLASSIFIED+%E2%80%94+LEVEL+3+CLEARANCE+REQUIRED;DECRYPTING+SUBJECT+FILE...;ACCESS+GRANTED" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=22&duration=2200&pause=300&color=00F5D4&center=true&vCenter=true&width=700&multiline=true&lines=BOOTING+VENU_OS+v2.6...;LOADING+KERNEL+MODULES...;MOUNTING+%2Fdev%2Fbugbounty...;WELCOME%2C+OPERATOR." alt="boot sequence" />
+
+<br>
+
+![](https://img.shields.io/badge/BOOT-SUCCESS-00F5D4?style=for-the-badge&labelColor=0b0c10)
+![](https://img.shields.io/badge/UPTIME-24%2F7_HUNTING-00F5D4?style=for-the-badge&labelColor=0b0c10)
+![](https://komarev.com/ghpvc/?username=Venu-exe&color=00F5D4&style=for-the-badge&label=VISITORS&labelColor=0b0c10)
 
 </div>
 
-<br>
+---
 
+```diff
++ [OK] Loaded module: python3.11
++ [OK] Loaded module: bash_utils
++ [OK] Loaded module: burpsuite.ext
++ [OK] Loaded module: nmap.core
++ [OK] Loaded module: wireshark.sniffer
+- [!!] Loaded module: patience.exe .......... FAILED (still hunting bugs at 3am)
 ```
-████████████████████████████████████████████████████
-█ SUBJECT FILE — 0x211691020                        █
-█ STATUS: ACTIVE                                    █
-█ CLEARANCE: WHITE HAT                              █
-████████████████████████████████████████████████████
+
+<br>
+
+## ⚡ system.identity
+
+```yaml
+name: Venu
+alias: Venu-exe
+location: Tiruvannamalai, India
+role: Bug Bounty Hunter / Offensive Security Researcher
+directive: >
+  Find vulnerabilities before the bad guys do.
+  Write secure code. Build offensive tooling.
+  Break things responsibly.
+uptime: "still compiling..."
 ```
 
 <br>
 
-## 📁 Subject Dossier
-
-| Field | Data |
-|:--|:--|
-| **Codename** | `Venu-exe` |
-| **Last Known Location** | Tiruvannamalai, India |
-| **Occupation** | Bug Bounty Hunter / Offensive Security |
-| **Affiliations** | HackerOne, Bugcrowd |
-| **Threat Level** | ~~Hostile~~ Friendly *(ethical hacker — reports, doesn't exploit)* |
-| **Directive** | Find vulnerabilities before the bad guys do |
-
-<br>
-
-## 🗂️ Field Report
-
-> Subject has been observed writing secure code, deploying offensive
-> security tooling, and dismantling systems for the purpose of hardening
-> them. No malicious activity detected. Subject operates under the
-> Responsible Disclosure protocol at all times.
-
-<br>
-
-## 🛰️ Equipment Manifest
+## ⚙️ system.skills
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=e63946)
-![Bash](https://img.shields.io/badge/-Bash-1a1a2e?style=flat-square&logo=gnubash&logoColor=e63946)
-![Kali](https://img.shields.io/badge/-Kali_Linux-1a1a2e?style=flat-square&logo=kalilinux&logoColor=e63946)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-1a1a2e?style=flat-square&logo=burpsuite&logoColor=e63946)
-![Nmap](https://img.shields.io/badge/-Nmap-1a1a2e?style=flat-square&logo=nmap&logoColor=e63946)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1a1a2e?style=flat-square&logo=wireshark&logoColor=e63946)
+<img src="https://skillicons.dev/icons?i=python,bash,kali,linux,git,github,vscode,docker&theme=dark" />
 
 </div>
 
-**Proficiency Assessment**
-
 ```
-█ Python ..................... [REDACTED — HIGH]  80%
-█ Web App Security ........... [REDACTED — HIGH]  75%
-█ Bash / Scripting ........... [REDACTED — HIGH]  75%
-█ Recon / Networking ......... [MODERATE]          70%
-█ SOC & Threat Intel .......... [TRAINING]          25%
-█ Red Team Ops ................ [TRAINING]          25%
+┌─────────────────────────────┬────────┐
+│ Python                      │ 80% ██ │
+│ Web Application Security    │ 75% ██ │
+│ Bash / Scripting            │ 75% ██ │
+│ Recon & Networking          │ 70% ██ │
+│ SOC & Threat Analysis       │ 25% ▒▒ │  loading...
+│ Red Team Operations         │ 25% ▒▒ │  loading...
+└─────────────────────────────┴────────┘
 ```
 
 <br>
 
-## 🎯 Open Cases *(Pinned Repositories)*
+## 🧩 system.processes *(active tasks)*
 
 <table>
-<tr><th>Case File</th><th>Summary</th></tr>
-<tr><td><a href="https://github.com/Venu-exe/ssh-bruteforce"><code>ssh-bruteforce</code></a></td><td>Brute-force testing tool — SSH auth hardening</td></tr>
-<tr><td><a href="https://github.com/Venu-exe/Portscanner"><code>Portscanner</code></a></td><td>Custom Python port scanner</td></tr>
-<tr><td><a href="https://github.com/Venu-exe/keylogger"><code>keylogger</code></a></td><td>Keylogging PoC — research use only</td></tr>
-<tr><td><a href="https://github.com/Venu-exe/recon"><code>recon</code></a></td><td>Recon automation scripts</td></tr>
-<tr><td><a href="https://github.com/Venu-exe/full-recon"><code>full-recon</code></a></td><td>Full recon pipeline (Shell)</td></tr>
+<tr><td>🟢</td><td><b>bug_bounty_hunter.exe</b></td><td>running — HackerOne & Bugcrowd</td></tr>
+<tr><td>🟢</td><td><b>webapp_pentester.exe</b></td><td>running</td></tr>
+<tr><td>🟡</td><td><b>soc_analyst.exe</b></td><td>installing... 25%</td></tr>
+<tr><td>🟡</td><td><b>mobile_pentester.exe</b></td><td>installing... 25%</td></tr>
+<tr><td>🟡</td><td><b>red_teamer.exe</b></td><td>installing... 25%</td></tr>
 </table>
 
 <br>
 
-## 📡 Surveillance Network *(Find Me)*
+## 📦 system.repos *(pinned)*
+
+<details open>
+<summary><b>▸ ssh-bruteforce</b> — SSH brute-force testing tool</summary>
+<br>
+
+`$ git clone https://github.com/Venu-exe/ssh-bruteforce.git`
+</details>
+
+<details>
+<summary><b>▸ Portscanner</b> — Custom Python port scanner</summary>
+<br>
+
+`$ git clone https://github.com/Venu-exe/Portscanner.git`
+</details>
+
+<details>
+<summary><b>▸ keylogger</b> — Keylogging PoC for security research</summary>
+<br>
+
+`$ git clone https://github.com/Venu-exe/keylogger.git`
+</details>
+
+<details>
+<summary><b>▸ recon</b> — Recon automation scripts</summary>
+<br>
+
+`$ git clone https://github.com/Venu-exe/recon.git`
+</details>
+
+<details>
+<summary><b>▸ full-recon</b> — Full recon pipeline (Shell)</summary>
+<br>
+
+`$ git clone https://github.com/Venu-exe/full-recon.git`
+</details>
+
+<br>
+
+## 🌐 system.network
 
 <div align="center">
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-venu--sh-1a1a2e?style=for-the-badge&logo=hackerone&logoColor=e63946)](https://hackerone.com/venu-sh?type=user)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-venu--sh-1a1a2e?style=for-the-badge&logo=bugcrowd&logoColor=e63946)](https://bugcrowd.com/h/venu-sh)
-[![GitHub](https://img.shields.io/badge/GitHub-Venu--exe-1a1a2e?style=for-the-badge&logo=github&logoColor=e63946)](https://github.com/Venu-exe)
+[![HackerOne](https://img.shields.io/badge/HackerOne-venu--sh-0b0c10?style=for-the-badge&logo=hackerone&logoColor=00F5D4)](https://hackerone.com/venu-sh?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-venu--sh-0b0c10?style=for-the-badge&logo=bugcrowd&logoColor=00F5D4)](https://bugcrowd.com/h/venu-sh)
+[![GitHub](https://img.shields.io/badge/GitHub-Venu--exe-0b0c10?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/Venu-exe)
 
 </div>
 
 <br>
 
-## 📊 Activity Log
+## 📈 system.stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e63946&icon_color=e63946&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=radical&hide_border=true&background=1a1a2e&ring=e63946&fire=e63946&currStreakLabel=e63946" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Venu-exe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0c10&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venu-exe&theme=tokyonight&hide_border=true&background=0b0c10&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="48%" />
 
 </div>
 
-<br>
+---
+
+<div align="center">
 
 ```
-████████████████████████████████████████████████████
-█ END OF FILE                                       █
-█ ETHICAL HACKING ONLY — RESPONSIBLE DISCLOSURE      █
-█ NO HARM. JUST PROTECTION.                         █
-████████████████████████████████████████████████████
+[VENU_OS] $ echo "ethical hacking only. responsible disclosure. no harm, just protection."
+> ethical hacking only. responsible disclosure. no harm, just protection.
+
+[VENU_OS] $ _
 ```
+
+</div>
