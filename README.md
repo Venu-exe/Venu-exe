@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=60&lines=Hi+I'm+Venu+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39ff14&height=180&section=header&text=Venu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=whoami+%3E+security+researcher;nmap+-sV+target.com+%23+scanning...;status%3A+hunting+bugs+24%2F7;Access%3A+Granted+%E2%9C%93" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venu-exe&color=39FF14&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Venu-exe?label=Followers&style=flat-square&color=39FF14" />
 </p>
 
 ---
@@ -75,6 +84,35 @@ I'm **`Venu`**, a security researcher and bug bounty hunter with a focus on web 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-exe&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Venu-exe&theme=matrix&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## Terminal
+
+```bash
+venu@kali:~$ whoami
+security_researcher
+
+venu@kali:~$ cat skills.txt
+web_app_pentesting | recon | network_scanning | exploit_dev
+
+venu@kali:~$ ./scan.sh --target=vulnerabilities --mode=responsible
+[+] Scan complete. 0 secrets leaked. 1 bug reported. Coffee: required.
+```
+
+---
+
+## Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Venu-exe/Venu-exe/output/github-contribution-grid-snake.svg" />
+</p>
+
+> Not showing up yet? This needs a one-time GitHub Action set up in your `Venu-exe/Venu-exe` repo — [Platane/snk](https://github.com/Platane/snk) generates this automatically from your contribution graph. Ask me if you want the workflow file.
+
 ---
 
 ## Find Me
@@ -86,3 +124,9 @@ I'm **`Venu`**, a security researcher and bug bounty hunter with a focus on web 
 ---
 
 <p align="center"><em>"Ethical hacking only. Responsible disclosure. No harm, just protection."</em></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,100:0d1117&height=100&section=footer" />
+</p>
+
+<!-- Easter egg for fellow devs peeking at the raw markdown: you found the source, now go find the bugs. -->
