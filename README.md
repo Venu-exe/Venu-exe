@@ -121,7 +121,7 @@ venu@kali:~$ echo "V2VsbCBkb25lLCB5b3UgZGVjb2RlZCB0aGUgZmxhZy4gRk9VTkR7cmVhZG1lX
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vulnerable_to-Coffee_Overflow-39ff14?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Vulnerable-39ff14?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=000000" />
   <img src="https://img.shields.io/badge/CVE-2026--SLEEP--DEPRIVED-red?style=for-the-badge&labelColor=000000" />
 </p>
 
