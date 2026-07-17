@@ -143,17 +143,7 @@ venu@kali:~$ echo "V2VsbCBkb25lLCB5b3UgZGVjb2RlZCB0aGUgZmxhZy4gRk9VTkR7cmVhZG1lX
 - Bugcrowd → [bugcrowd.com/h/venu-sh](https://bugcrowd.com/h/venu-sh)
 - GitHub → [github.com/Venu-exe](https://github.com/Venu-exe)
 
----
 
-## Support ⚡
-
-<p align="center">
-  <a href="https://buymeacoffee.com/venu-exe"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=39ff14" /></a>
-</p>
-
-> Swap the link with your own Buy Me a Coffee / Ko-fi handle once you make one — remove this section entirely if you'd rather not include it.
-
----
 
 <p align="center"><em>"Ethical hacking only. Responsible disclosure. No harm, just protection."</em></p>
 
