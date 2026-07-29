@@ -21,20 +21,23 @@
 <br>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   $ whoami                                                           ║
-║   ❯ venu — security researcher @ tiruvannamalai, india               ║
-║                                                                      ║
-║   $ cat /etc/motd                                                    ║
-║   ❯ hunting bugs on hackerone & bugcrowd                             ║
-║   ❯ building offensive tools to break things the right way           ║
-║   ❯ finding vulnerabilities before attackers do                      ║
-║                                                                      ║
-║   $ uptime                                                           ║
-║   ❯ actively hacking since — always learning, always breaking        ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+┌─[venu@kali]─[~]
+├── $ whoami
+│   → security researcher · bug bounty hunter · tiruvannamalai, india
+│
+├── $ ls ~/arsenal/
+│   → ssh-bruteforce/    # multi-threaded SSH auth testing (paramiko)
+│   → Portscanner/       # custom TCP port scanner (socket)
+│   → recon/             # subdomain enum + WHOIS (sublist3r)
+│   → full-recon/        # recon pipeline: subfinder → httpx → nuclei
+│   → keylogger/         # input monitoring tool (pynput)
+│   → JSScope/           # JS endpoint extractor for webapp recon
+│
+├── $ cat /etc/targets
+│   → HackerOne  · Bugcrowd · Web Apps · APIs
+│
+└── $ echo $STATUS
+    → hunting bugs · writing exploits · automating recon
 ```
 
 <br>
@@ -50,15 +53,26 @@
 <td>
 
 ```yaml
+offensive_tooling:
+  python:
+    - ssh-bruteforce    # paramiko + threading
+    - Portscanner       # raw socket scanning
+    - recon             # sublist3r + whois + requests
+    - keylogger         # pynput keystroke capture
+    - JSScope           # JS file endpoint extraction
+  bash:
+    - full-recon        # subfinder → httpx → waybackurls → nmap → nuclei
+
 current_focus:
-  - 🎯 Actively hunting web app vulnerabilities
+  - 🎯 Hunting web app & API vulnerabilities
+  - 🔗 Chaining recon tools into automated pipelines
+  - 🕵️ OSINT & subdomain enumeration at scale
   - 📡 Leveling up in SOC & threat analysis
   - 🔴 Studying red team fundamentals
-  - 🛠️ Building custom offensive tooling
 
 platforms:
-  - HackerOne: venu-sh
-  - Bugcrowd: venu-sh
+  hackerone: venu-sh
+  bugcrowd: venu-sh
 
 philosophy: >
   Break it, report it, fix it.
@@ -97,10 +111,12 @@ philosophy: >
 
 | Domain | Skill | Level |
 |:--:|:--|:--|
-| 🐍 | **Python** | ![](https://progress-bar.xyz/80?title=&color=00D4FF&width=180&suffix=%25) |
+| 🐍 | **Python Offensive Tooling** | ![](https://progress-bar.xyz/80?title=&color=00D4FF&width=180&suffix=%25) |
 | 🌐 | **Web App Security** | ![](https://progress-bar.xyz/75?title=&color=00B4D8&width=180&suffix=%25) |
-| 📜 | **Bash / Scripting** | ![](https://progress-bar.xyz/75?title=&color=0096C7&width=180&suffix=%25) |
-| 🔍 | **Recon / Networking** | ![](https://progress-bar.xyz/70?title=&color=0077B6&width=180&suffix=%25) |
+| 📜 | **Bash / Shell Automation** | ![](https://progress-bar.xyz/75?title=&color=0096C7&width=180&suffix=%25) |
+| 🔍 | **Recon & OSINT** | ![](https://progress-bar.xyz/70?title=&color=0077B6&width=180&suffix=%25) |
+| 🔗 | **Tool Chaining & Pipelines** | ![](https://progress-bar.xyz/70?title=&color=0077B6&width=180&suffix=%25) |
+| 🌍 | **Networking & Port Scanning** | ![](https://progress-bar.xyz/65?title=&color=005F99&width=180&suffix=%25) |
 | 🛡️ | **SOC & Threat Intel** | ![](https://progress-bar.xyz/25?title=&color=48CAE4&width=180&suffix=%25) `learning` |
 | 🔴 | **Red Teaming** | ![](https://progress-bar.xyz/25?title=&color=48CAE4&width=180&suffix=%25) `learning` |
 
@@ -116,12 +132,12 @@ philosophy: >
 
 <div align="center">
 
-<a href="https://github.com/Venu-exe/ssh-bruteforce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=ssh-bruteforce&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
+<a href="https://github.com/Venu-exe/full-recon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=full-recon&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
 </a>
 &nbsp;
-<a href="https://github.com/Venu-exe/Portscanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=Portscanner&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
+<a href="https://github.com/Venu-exe/ssh-bruteforce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=ssh-bruteforce&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
 </a>
 
 <br>
@@ -130,8 +146,18 @@ philosophy: >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=recon&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
 </a>
 &nbsp;
-<a href="https://github.com/Venu-exe/full-recon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=full-recon&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
+<a href="https://github.com/Venu-exe/Portscanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=Portscanner&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
+</a>
+
+<br>
+
+<a href="https://github.com/Venu-exe/keylogger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=keylogger&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
+</a>
+&nbsp;
+<a href="https://github.com/Venu-exe/JSScope">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=JSScope&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
 </a>
 
 </div>
