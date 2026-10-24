@@ -60,6 +60,7 @@ offensive_tooling:
     - recon             # sublist3r + whois + requests
     - keylogger         # pynput keystroke capture
     - JSScope           # JS file endpoint extraction
+    - TakeoverHunter    # subdomain takeover detector (final-year project)
   bash:
     - full-recon        # subfinder → httpx → waybackurls → nmap → nuclei
 
@@ -67,6 +68,7 @@ current_focus:
   - 🎯 Hunting web app & API vulnerabilities
   - 🔗 Chaining recon tools into automated pipelines
   - 🕵️ OSINT & subdomain enumeration at scale
+  - 🛡️ Final-year project: TakeoverHunter (subdomain takeover detection)
   - 📡 Leveling up in SOC & threat analysis
   - 🔴 Studying red team fundamentals
 
@@ -158,6 +160,12 @@ philosophy: >
 &nbsp;
 <a href="https://github.com/Venu-exe/JSScope">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=JSScope&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
+</a>
+
+<br>
+
+<a href="https://github.com/Venu-exe/takeoverhunter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Venu-exe&repo=takeoverhunter&theme=algolia&hide_border=true&bg_color=0B0D17&title_color=00D4FF&icon_color=48CAE4&text_color=ADB5BD" />
 </a>
 
 </div>
