@@ -1,6 +1,6 @@
 # Venu
 
-> Bug bounty hunter · offensive security · tool builder · final-year CS · Tiruvannamalai, IN
+> Bug bounty hunter · offensive security · tool builder · final-year CS · Arch Linux · Tiruvannamalai, IN
 
 ```
 $ whoami
