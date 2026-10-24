@@ -25,6 +25,7 @@ venu — security researcher building offensive tooling from scratch
 |---|---|---|
 | [takeoverhunter](https://github.com/Venu-exe/takeoverhunter) | Subdomain takeover detector (final-year project) | Python |
 | [vulnradar](https://github.com/Venu-exe/vulnradar) | Terminal mission control for hunters (curses TUI) | Python |
+| [cmdinject](https://github.com/Venu-exe/cmdinject) | Command injection tester (35+ payloads, blind detection) | Python |
 | [bountycommand](https://github.com/Venu-exe/bountycommand) | All-in-one bug bounty command center (web, offline) | JS |
 | [payloadforge](https://github.com/Venu-exe/payloadforge) | Payload generator & mutator (7 vuln types, 6 encodings, WAF bypass) | Python |
 | [bountyreport](https://github.com/Venu-exe/bountyreport) | Report generator (CVSS 3.1, 27 templates, 5 platforms) | Python |
