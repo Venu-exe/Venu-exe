@@ -2,18 +2,20 @@
 
 > Bug bounty hunter · offensive security · tool builder · final-year CS · Arch Linux · Tiruvannamalai, IN
 
+---
+
+### Now
+
+- 🎯 Final-year project: **[TakeoverHunter](https://github.com/Venu-exe/takeoverhunter)** — subdomain takeover detector
+- 📡 New: **[VulnRadar](https://github.com/Venu-exe/vulnradar)** — terminal mission control for hunters (curses TUI)
+- 🔍 Hunting web apps, APIs, cloud, subdomain takeover on HackerOne & Bugcrowd
+
 ```
 $ whoami
 venu — security researcher building offensive tooling from scratch
 ```
 
 ---
-
-### Now
-
-- 🎯 Final-year project: **[TakeoverHunter](https://github.com/Venu-exe/takeoverhunter)** — subdomain takeover detector (DNS + HTTP fingerprinting, ~45 services, web UI, SQLite)
-- 🔍 Hunting web apps, APIs, cloud, subdomain takeover on HackerOne & Bugcrowd
-- 🔧 Building an end-to-end bug bounty workflow: recon → payloads → reports
 
 ---
 
@@ -22,6 +24,7 @@ venu — security researcher building offensive tooling from scratch
 | Project | What | Stack |
 |---|---|---|
 | [takeoverhunter](https://github.com/Venu-exe/takeoverhunter) | Subdomain takeover detector (final-year project) | Python |
+| [vulnradar](https://github.com/Venu-exe/vulnradar) | Terminal mission control for hunters (curses TUI) | Python |
 | [bountycommand](https://github.com/Venu-exe/bountycommand) | All-in-one bug bounty command center (web, offline) | JS |
 | [payloadforge](https://github.com/Venu-exe/payloadforge) | Payload generator & mutator (7 vuln types, 6 encodings, WAF bypass) | Python |
 | [bountyreport](https://github.com/Venu-exe/bountyreport) | Report generator (CVSS 3.1, 27 templates, 5 platforms) | Python |
