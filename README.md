@@ -98,6 +98,73 @@ redteam ██░░░░░░░░░░░░░░░░░░░░  20% 
 
 ---
 
+### 🏆 `venu@kali:~$` — trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Venu-exe&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+</p>
+
+---
+
+### 🎖️ `venu@kali:~$` — notable wins
+
+```
+$ cat ~/wins.log
+[2026]  Subdomain takeover chain  .............  (HackerOne)   Critical
+[2026]  IDOR on API endpoint  ................  (Bugcrowd)    High
+[2026]  Exposed secrets in JS bundle  ........  (HackerOne)   Medium
+[2026]  S3 bucket misconfig (public write) ...  (Bugcrowd)    Medium
+[....]  more coming — hunting in progress
+```
+
+> _Specific program names withheld per disclosure policy. Reach out for collab._
+
+---
+
+### 🛰️ `venu@kali:~$` — daily driver
+
+```
+OS        : Kali Linux (rolling)  +  Windows (WSL2)
+Editor    : VS Code  (with vim motions)
+Shell     : zsh  +  oh-my-zsh  +  powerlevel10k
+Terminal  : kitty
+Recon     : subfinder · httpx · nuclei · naabu · katana
+Proxy     : Burp Suite Pro
+Langs     : Python · C · Bash · JavaScript
+```
+
+---
+
+### 📡 `venu@kali:~$` — roadmap
+
+- [x] Build a zero-dependency recon toolkit
+- [x] Ship an all-in-one bug bounty command center
+- [x] Create a payload generator & mutator with WAF bypass
+- [x] Build a multi-platform report generator (CVSS 3.1)
+- [x] **Final-year project: TakeoverHunter (subdomain takeover detector)**
+- [ ] Publish a bug bounty methodology writeup
+- [ ] Add ML-based false-positive filtering to TakeoverHunter
+- [ ] Contribute a nuclei template pack
+- [ ] First paid Critical finding 🎯
+
+---
+
+### 📝 `venu@kali:~$` — writeups & notes
+
+> Coming soon — methodology notes, recon playbooks, and disclosed finding writeups
+> will live here. Stay tuned.
+
+---
+
+### 💼 `venu@kali:~$` — open to
+
+- 🤝 Collaboration on offensive tooling & recon pipelines
+- 🎯 Bug bounty team-ups (web / API / cloud)
+- 🎓 Final-year project guidance & code reviews
+- 💡 Open-source contributions in the security space
+
+---
+
 ### 🔗 `venu@kali:~$` — connect
 
 <p align="center">
