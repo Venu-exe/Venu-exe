@@ -50,4 +50,17 @@ venu — security researcher building offensive tooling from scratch
 
 ---
 
+---
+
+### Signal
+
+```
+[●] status   : hunting
+[●] focus    : subdomain takeover · API security · recon automation
+[●] shipping : TakeoverHunter (final-year project)
+[○] sleep    : optional
+```
+
 *"break it, report it, fix it. no harm — just protection."*
+
+— venu, from a terminal somewhere in tiruvannamalai
