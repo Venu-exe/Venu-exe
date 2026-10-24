@@ -1,43 +1,76 @@
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██╗   ██╗███████╗███╗   ██╗██╗   ██╗     ███████╗██╗  ██╗███████╗ ║
-║   ██║   ██║██╔════╝████╗  ██║██║   ██║     ╚══███╔╝██║  ██║██╔════╝ ║
-║   ██║   ██║█████╗  ██╔██╗ ██║██║   ██║       ███╔╝ ███████║█████╗   ║
-║   ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║   ██║      ███╔╝  ██╔══██║██╔══╝   ║
-║    ╚████╔╝ ███████╗██║ ╚████║╚██████╔╝     ███████╗██║  ██║███████╗ ║
-║     ╚═══╝  ╚══════╝╚═╝  ╚═══╝ ╚═════╝      ╚══════╝╚═╝  ╚═╝╚══════╝ ║
-║                                                                      ║
-║              bug bounty hunter  ·  offensive security  ·  tool builder ║
-║              tiruvannamalai, india  ·  final-year CS student          ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ██╗   ██╗███████╗███╗   ██╗██╗   ██╗   ███████╗██╗  ██╗███████╗       ║
+║   ██║   ██║██╔════╝████╗  ██║██║   ██║   ╚══███╔╝██║  ██║██╔════╝       ║
+║   ██║   ██║█████╗  ██╔██╗ ██║██║   ██║     ███╔╝ ███████║█████╗         ║
+║   ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║   ██║    ███╔╝  ██╔══██║██╔══╝         ║
+║    ╚████╔╝ ███████╗██║ ╚████║╚██████╔╝   ███████╗██║  ██║███████╗       ║
+║     ╚═══╝  ╚══════╝╚═╝  ╚═══╝ ╚═════╝    ╚══════╝╚═╝  ╚═╝╚══════╝      ║
+║                                                                          ║
+║            ╔════════════════════════════════════════════╗               ║
+║            ║   C L A S S I F I E D  ·  B O U N T Y      ║               ║
+║            ║   H U N T E R   D O S S I E R              ║               ║
+║            ║   Clearance: OMEGA   ·   Status: ACTIVE     ║               ║
+║            ╚════════════════════════════════════════════╝               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-> **"break it, report it, fix it. no harm — just protection."**
+### `OPERATIVE: VENU` · `REGION: TIRUVANNAMALAI, IN` · `ROLE: BUG BOUNTY HUNTER / TOOL BUILDER`
+
+> *"The best way to predict the future is to invent it — but first, break it, report it, and fix it."*
+
+</div>
 
 ---
 
-### `> whoami`
+### 📁 `DOSSIER_01` — Identity
 
-I'm **Venu** — a cybersecurity student and bug bounty hunter who builds his own
-offensive tooling from scratch. Python, C, Bash. Recon, payloads, reports,
-subdomain takeover. Everything open-source, everything zero-dependency where
-possible. Currently shipping my final-year project: **TakeoverHunter**.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ALIAS ............ Venu-exe                                │
+│  CLASS ............ Cybersecurity Student (Final Year)       │
+│  SPECIALTY ........ Offensive Security · Recon · Tooling     │
+│  BASE ............. Tiruvannamalai, India                    │
+│  PLATFORMS ........ HackerOne (venu-sh) · Bugcrowd (venu-sh)│
+│  PHILOSOPHY ....... "break it, report it, fix it.           │
+│                      no harm — just protection."            │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### `> cat /etc/targets`
+### 🎮 `DOSSIER_02` — Character Sheet
 
-`HackerOne (venu-sh)` · `Bugcrowd (venu-sh)` · `Web apps` · `APIs` · `Cloud` · `Subdomain takeover`
+```
+╔══════════════════════════════════════════════════════════════╗
+║  LVL 24  ·  CLASS: OFFENSIVE OPERATIVE  ·  XP: 12,480/15,000  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   STR  ████████████████████░░  85   Python Offensive Tooling  ║
+║   DEX  ██████████████████░░░░  80   Bash / Shell Automation  ║
+║   INT  ███████████████░░░░░░░  75   Web App Security         ║
+║   WIS  ███████████████░░░░░░░  75   Recon & OSINT            ║
+║   CON  ██████████████░░░░░░░░  70   C Systems / Fast Binaries║
+║   CHA  ████░░░░░░░░░░░░░░░░░░  25   SOC & Threat Intel     ║
+║   LCK  ██░░░░░░░░░░░░░░░░░░░░  20   Red Teaming            ║
+║                                                              ║
+║   ACTIVE BUFFS:  "+20% recon speed"  "+15% payload crafting"  ║
+║   DEBUFFS:       "-80% sleep"  "+100% caffeine dependency"    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### `> ls ~/arsenal`  — 20+ tools, all open source
+### 🗡️ `DOSSIER_03` — Arsenal (20+ Tools Forged)
 
-| # | Project | What it does | Stack |
-|---|---------|--------------|-------|
+| # | Weapon | Description | Forged In |
+|---|--------|-------------|-----------|
 | 01 | **[takeoverhunter](https://github.com/Venu-exe/takeoverhunter)** ⭐ | Subdomain takeover detector — DNS + HTTP fingerprinting, ~45 services, web UI, SQLite. *Final-year project.* | Python |
-| 02 | **[bountycommand](https://github.com/Venu-exe/bountycommand)** | All-in-one bug bounty command center (web, offline, localStorage) | JS |
+| 02 | **[bountycommand](https://github.com/Venu-exe/bountycommand)** | All-in-one bug bounty command center (web, offline) | JS |
 | 03 | **[payloadforge](https://github.com/Venu-exe/payloadforge)** | Payload generator & mutator — 7 vuln types, 6 encodings, WAF bypass | Python |
 | 04 | **[bountyreport](https://github.com/Venu-exe/bountyreport)** | Report generator — CVSS 3.1, 27 templates, 5 platforms | Python |
 | 05 | **[bountyrecon](https://github.com/Venu-exe/bountyrecon)** | Zero-dependency Python recon toolkit | Python |
@@ -59,47 +92,39 @@ possible. Currently shipping my final-year project: **TakeoverHunter**.
 
 ---
 
-### `> ./now.sh`
+### 📜 `DOSSIER_04` — Quest Log (Roadmap)
 
 ```
-[+] FINAL-YEAR PROJECT .... TakeoverHunter (shipped, tested, documented)
-[+] HUNTING .............. web apps · APIs · cloud · subdomain takeover
-[+] BUILDING ............. all-in-one bug bounty workflow
-[+] LEARNING ............. red team fundamentals · SOC · threat intel
-[+] PLATFORMS ............ HackerOne (venu-sh) · Bugcrowd (venu-sh)
-```
-
----
-
-### `> cat skill_matrix.txt`
-
-```
-python  ████████████████████░░  85%   offensive tooling, automation
-bash    ██████████████████░░░░  80%   pipelines, tool chaining
-web     ███████████████░░░░░░░  75%   XSS, IDOR, SSRF, API security
-recon   ███████████████░░░░░░░  75%   subdomain enum, OSINT, fingerprinting
-c       ██████████████░░░░░░░░  70%   fast binaries, scanners, fuzzers
-soc     ████░░░░░░░░░░░░░░░░░░  25%   learning
-redteam ██░░░░░░░░░░░░░░░░░░░░  20%   learning
+[✓] Build a zero-dependency recon toolkit
+[✓] Ship an all-in-one bug bounty command center
+[✓] Create a payload generator & mutator with WAF bypass
+[✓] Build a multi-platform report generator (CVSS 3.1)
+[✓] Final-year project: TakeoverHunter (subdomain takeover detector)
+[ ] Publish a bug bounty methodology writeup
+[ ] Add ML-based false-positive filtering to TakeoverHunter
+[ ] Contribute a nuclei template pack
+[ ] First paid Critical finding 🎯
 ```
 
 ---
 
-### `> cat roadmap.md`
+### 🏅 `DOSSIER_05` — Hall of Fame (Notable Wins)
 
-- [x] Build a zero-dependency recon toolkit
-- [x] Ship an all-in-one bug bounty command center
-- [x] Create a payload generator & mutator with WAF bypass
-- [x] Build a multi-platform report generator (CVSS 3.1)
-- [x] **Final-year project: TakeoverHunter (subdomain takeover detector)**
-- [ ] Publish a bug bounty methodology writeup
-- [ ] Add ML-based false-positive filtering to TakeoverHunter
-- [ ] Contribute a nuclei template pack
-- [ ] First paid Critical finding 🎯
+```
+┌──────────────────────────────────────────────────────────────┐
+│  [2026]  Subdomain takeover chain  .........  HackerOne  Critical │
+│  [2026]  IDOR on API endpoint  .............  Bugcrowd   High     │
+│  [2026]  Exposed secrets in JS bundle  .....  HackerOne  Medium   │
+│  [2026]  S3 bucket misconfig (public write)  Bugcrowd   Medium   │
+│  [....]  more in progress — hunting never stops               │
+└──────────────────────────────────────────────────────────────┘
+```
+
+> Program names withheld per disclosure policy.
 
 ---
 
-### `> cat daily_driver.txt`
+### 🛰️ `DOSSIER_06` — Daily Driver
 
 ```
 OS        : Kali Linux (rolling) + Windows (WSL2)
@@ -113,37 +138,42 @@ Langs     : Python · C · Bash · JavaScript
 
 ---
 
-### `> cat wins.log`
+### 📡 `DOSSIER_07` — Intel Feed (Writeups)
 
-```
-[2026]  Subdomain takeover chain  .............  HackerOne   Critical
-[2026]  IDOR on API endpoint  ................  Bugcrowd    High
-[2026]  Exposed secrets in JS bundle  ........  HackerOne   Medium
-[2026]  S3 bucket misconfig (public write) ...  Bugcrowd    Medium
-[....]  more in progress
-```
-
-> Program names withheld per disclosure policy.
+> Coming soon — methodology notes, recon playbooks, and disclosed finding
+> writeups will be published here. Stay tuned.
 
 ---
 
-### `> cat /etc/contact`
+### 🤝 `DOSSIER_08` — Open Channels
 
-- HackerOne → [venu-sh](https://hackerone.com/venu-sh?type=user)
-- Bugcrowd → [venu-sh](https://bugcrowd.com/h/venu-sh)
-- GitHub → [Venu-exe](https://github.com/Venu-exe)
+```
+┌──────────────────────────────────────────────────────────────┐
+│  HackerOne  →  venu-sh                                       │
+│  Bugcrowd   →  venu-sh                                       │
+│  GitHub     →  Venu-exe                                      │
+└──────────────────────────────────────────────────────────────┘
+```
 
 **Open to:** collaboration on offensive tooling · bug bounty team-ups (web/API/cloud) · final-year project guidance · open-source security contributions.
 
 ---
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  "The best way to predict the future is to invent it."      │
-│  — but first, break it, report it, and fix it.             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "The best way to predict the future is to invent it."      ║
+║   — but first, break it, report it, and fix it.              ║
+║                                                              ║
+║   ── END OF DOSSIER · CLEARANCE: OMEGA · STATUS: ACTIVE ──   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
-*No third-party widgets. No badges. Just the work.*
+*Forged by hand. No third-party widgets. No badges. Just the work.*
